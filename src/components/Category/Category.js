@@ -13,19 +13,19 @@ function Category() {
               src='images/myth.jpg'
               title= 'MYTHOLOGY STORIES'
               label='Mythology'
-              path='/services'
+              path='/AllStories'
             />
             <CategoryCardItem
               src='images/temple.jpg'
               title= 'TEMPLES'
               label = 'Temples'
-              path='/services'
+              path='/AllTemples'
             />
             <CategoryCardItem
               src='images/festival.jpeg'
               title= 'FESTIVALS'
               label = 'Festivals'
-              path='/services'
+              path='/AllFestivals'
             />
           </ul>
         </div>
